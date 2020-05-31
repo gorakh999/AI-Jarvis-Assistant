@@ -1,0 +1,5 @@
+SpeechRecognition
+pyalsaaudio
+pyttsx
+pyaudio
+gTTS
